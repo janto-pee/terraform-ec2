@@ -1,1 +1,1 @@
-# Winodws Server Administration
+# Terraform on AWS EC2
